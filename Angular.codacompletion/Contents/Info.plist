@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CodaAuthorString</key>
+	<string>perrohunter</string>
+	<key>CodaDescriptionString</key>
+	<string>Angular completition</string>
+	<key>CodaIconMaskTintString</key>
+	<string>#0669ad</string>
+	<key>CFBundleIdentifier</key>
+	<string>com.perrohunter.completions.angular</string>
+	<key>CFBundleName</key>
+	<string>Angular</string>
+	<key>NSHumanReadableCopyright</key>
+	<string>© 2014 perrohunter</string>
+	<key>CFBundleShortVersionString</key>
+	<string>1.0</string>
+	<key>CFBundleVersion</key>
+	<string>1.0</string>
+	<key>CFBundleGetInfoString</key>
+	<string>1.0, Copyright perrohunter 2014</string>
+	<key>CFBundlePackageType</key>
+	<string>BNDL</string>
+	<key>CFBundleInfoDictionaryVersion</key>
+	<string>6.0</string>
+	<key>ModeIdentifiers</key>
+	<array>
+		<string>SEEMode.JavaScript</string>
+	</array>
+</dict>
+</plist>
